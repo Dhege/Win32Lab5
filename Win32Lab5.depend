@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544794888 source:c:\users\gennady\downloads\win32lab2018\winapilab5\win32lab5\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<chrono>
+	<thread>
+	<mutex>
+
